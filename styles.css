@@ -452,3 +452,8 @@ ul {
   margin: 0;
   font-size: 0.9rem;
 }
+.hero{
+  background-image: url('https://cdn.britannica.com/63/153463-050-06B6270D/Grand-Canal-Venice.jpg');
+  background-size: cover;
+  background-position: center;
+}
